@@ -31,8 +31,8 @@
 
 ## 프롬프트 원칙 5가지 카테고리
 - Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4 (https://arxiv.org/abs/2312.16171)
- √ 프롬프트의 구조와 명확성 (Prompt Structure and Clarity)
- √ 구체성과 정보 (Specificity and Information)
- √ 사용자 상호작용과 참여 (User Interaction and Engagement)
- √ 콘텐츠와 언어 스타일 (Content and Language Style)
- √ 복잡한 작업과 코딩 프롬프트 (Complex Tasks and Coding Prompts)
+- √ 프롬프트의 구조와 명확성 (Prompt Structure and Clarity)
+- √ 구체성과 정보 (Specificity and Information)
+- √ 사용자 상호작용과 참여 (User Interaction and Engagement)
+- √ 콘텐츠와 언어 스타일 (Content and Language Style)
+- √ 복잡한 작업과 코딩 프롬프트 (Complex Tasks and Coding Prompts)
