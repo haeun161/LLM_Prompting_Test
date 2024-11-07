@@ -6,7 +6,7 @@
 - context: 추가 정보 제공 / 모델 동작 방법, 특정 규칙 등 지정
 - example: 예제를 포함하여 모델이 응답 패천을 식별하고 적용
   
-- **효과적 프롬프트 4가지 요소** (Persona: 역할 설정 / role: 임무 부여, context: 맥락 설정, Format: 출력 포맷 설정)
+- **효과적 프롬프트 4가지 요소** (Persona: 역할 설정 / role: 임무 부여/ context: 맥락 설정/ Format: 출력 포맷 설정)
 
 **주요 파라미터** : temperature, top_p, top_k, max_tokens, freqeuncy_penalty
 - temperature: 확률 분포에 가중치 변화를 주어 문장의 다양성을 조절 →  낮을수록 일관적이고 일반적인 답변, 높을수록 다양하고 창의적인 답변
