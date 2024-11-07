@@ -1,7 +1,7 @@
 # Prompting_Test
 해당 부분에서는 Prompting 요소, 기법 등을 배우고 실습하는 공간입니다.
 
-- **Prompting 구성 요소**: input, context, example
+**Prompting 구성 요소**: input, context, example
 - input: 모델에게 응답을 요구하는 프로세스, 작업, 테스크 대상 포함
 - context: 추가 정보 제공 / 모델 동작 방법, 특정 규칙 등 지정
 - example: 예제를 포함하여 모델이 응답 패천을 식별하고 적용
