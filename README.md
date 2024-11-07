@@ -1,4 +1,5 @@
-# Prompting_FineTuning_Test
+# Prompting_Test
+해당 부분에서는 Prompting 요소, 기법 등을 배우고 실습하는 공간입니다.
 
 - **Prompting 구성 요소**: input, context, example
 - input: 모델에게 응답을 요구하는 프로세스, 작업, 테스크 대상 포함
